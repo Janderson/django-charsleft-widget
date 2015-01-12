@@ -1,4 +1,4 @@
-jQuery(function($){
+django.jQuery(function($){
 	
 	$.fn.charsLeft = function(options){
 	
